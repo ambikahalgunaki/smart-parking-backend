@@ -1,4 +1,4 @@
-const Booking = require('../models/Booking');
+const Booking = require('../models/booking');
 const Payment = require('../models/payment');
 
 exports.activeVehicleAggregation = async(req, res) => {
