@@ -1,4 +1,4 @@
-const Slot = require('../models/slot')
+const Slot = require('../models/Slot')
 
 //Creating a slot
 exports.createSlot = async (req, res) => {

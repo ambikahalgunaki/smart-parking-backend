@@ -1,5 +1,5 @@
 const Vehicle = require('../models/vehicle')
-const Slot = require('../models/slot')
+const Slot = require('../models/Slot')
 const Booking = require('../models/booking')
 const Payment = require('../models/payment')
 
